@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadorNomina", "CalculadorNomina\CalculadorNomina.csproj", "{7208A1C3-430D-4A54-8134-915EA5475A86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7208A1C3-430D-4A54-8134-915EA5475A86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7208A1C3-430D-4A54-8134-915EA5475A86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7208A1C3-430D-4A54-8134-915EA5475A86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7208A1C3-430D-4A54-8134-915EA5475A86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4351F02E-FEDF-4DA2-B13B-2E8E20392896}
+	EndGlobalSection
+EndGlobal

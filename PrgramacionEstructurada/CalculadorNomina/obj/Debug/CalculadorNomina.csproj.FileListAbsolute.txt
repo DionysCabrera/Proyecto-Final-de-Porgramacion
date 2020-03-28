@@ -1,0 +1,17 @@
+C:\Users\Bryan Campos\Desktop\PrgramacionEstructurada\CalculadorNomina\bin\Debug\CalculadorNomina.exe
+C:\Users\Bryan Campos\Desktop\PrgramacionEstructurada\CalculadorNomina\bin\Debug\CalculadorNomina.pdb
+C:\Users\Bryan Campos\Desktop\PrgramacionEstructurada\CalculadorNomina\obj\Debug\CalculadorNomina.csprojAssemblyReference.cache
+C:\Users\Bryan Campos\Desktop\PrgramacionEstructurada\CalculadorNomina\obj\Debug\CalculadorNomina.Form1.resources
+C:\Users\Bryan Campos\Desktop\PrgramacionEstructurada\CalculadorNomina\obj\Debug\CalculadorNomina.Properties.Resources.resources
+C:\Users\Bryan Campos\Desktop\PrgramacionEstructurada\CalculadorNomina\obj\Debug\CalculadorNomina.csproj.GenerateResource.cache
+C:\Users\Bryan Campos\Desktop\PrgramacionEstructurada\CalculadorNomina\obj\Debug\CalculadorNomina.exe
+C:\Users\Bryan Campos\Desktop\PrgramacionEstructurada\CalculadorNomina\obj\Debug\CalculadorNomina.pdb
+C:\Users\Admin\Desktop\PrgramacionEstructurada\CalculadorNomina\bin\Debug\CalculadorNomina.exe
+C:\Users\Admin\Desktop\PrgramacionEstructurada\CalculadorNomina\bin\Debug\CalculadorNomina.pdb
+C:\Users\Admin\Desktop\PrgramacionEstructurada\CalculadorNomina\obj\Debug\CalculadorNomina.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\PrgramacionEstructurada\CalculadorNomina\obj\Debug\CalculadorNomina.Form1.resources
+C:\Users\Admin\Desktop\PrgramacionEstructurada\CalculadorNomina\obj\Debug\CalculadorNomina.Properties.Resources.resources
+C:\Users\Admin\Desktop\PrgramacionEstructurada\CalculadorNomina\obj\Debug\CalculadorNomina.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\PrgramacionEstructurada\CalculadorNomina\obj\Debug\CalculadorNomina.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\PrgramacionEstructurada\CalculadorNomina\obj\Debug\CalculadorNomina.exe
+C:\Users\Admin\Desktop\PrgramacionEstructurada\CalculadorNomina\obj\Debug\CalculadorNomina.pdb
